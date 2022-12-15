@@ -19,3 +19,6 @@ SAGA.7z is a folder with files that make up a sample of vizualization. This file
 
 To work you have install the Assembly4 addon, unpack .zip and .7z files.
 And paste this folder in FreeCAS Addon path.
+
+#### Contact:
+joaocqmiranda@gmail.com
